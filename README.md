@@ -19,8 +19,8 @@ Pruebas automatizadas para el sitio SauceDemo, realizadas con Python, Selenium y
 Clonar el repositorio y entrar en su carpeta:
 
 ```bash
-git clone https://github.com/wolframium919/pre-entrega-automation-testing-miguel-angel-conforti.git
-cd pre-entrega-automation-testing-miguel-angel-conforti
+git clone https://github.com/wolframium919/pre-entrega-automation-testing-miguel-conforti.git
+cd pre-entrega-automation-testing-miguel-conforti
 ```
 
 Instalar las dependencias:
