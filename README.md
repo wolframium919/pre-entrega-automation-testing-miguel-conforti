@@ -1,6 +1,6 @@
 # Pre-entrega - Automation Testing
 
-Pruebas automatizadas básicas para el sitio SauceDemo, realizadas con Python, Selenium y Pytest.
+Pruebas automatizadas para el sitio SauceDemo, realizadas con Python, Selenium y Pytest.
 
 ## Pruebas
 
